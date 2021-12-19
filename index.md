@@ -1,25 +1,17 @@
-## Witaj na mojej stronie internetowej
+# Wirtualny alkomat
 
-Strona ta została utworzona ze względu na otrzymane przezemnie zadanie domowe.
+### Wstęp
+Z każdym nowym kierowcą rośnie zagrożenie poprzez spowodowanie wypadku. Wielu ludzi ma takie sytuacje przez warunki panujące na drodze, niepoprawne zachowanie się na drodze lub zmylenie innego kierowcy - przez co on spowoduje taki incydent. Jednak coraz więcej kierowców wsiada za kółka samochodu po alkoholu, co jest najgorszym co może zrobić, gdyż wtedy możliwość spowodowania wypadku jest bardzo wysoka. Z tego względu chciałbym was zaprosić do zapoznania się z projektem w którym uczestniczę - Wirtualny Alkomat.
 
-### Aktualizacje
+### Opis ogólny
+Jest to aplikacja pozwalająca na zbadenie stanu trzeźwości w każym miejscu o każej porze.
 
-W najbliższym czasie będą tutaj pojawiały się kolejne informacje oraz zadania.
+### Zasada działania
+Stan trzeźwości badany jest na podstawie wzoru. Użytkownik musi jedynie podać informacje takie jak: waga, wiek, ilość spożytego alkohou, moc alkoholu spożytego, godzina rozpoczęcia spożycia alkoholu i godzina zakończenia, godzina altualna. Dzięki tym danym będzie mógł natychmiastowo sprawdzić aktualną zawartość alkoholu we krwi.
 
-```markdown
-Hello there
-
-#G  #K
-#E  #E
-#N  #N
-#E  #O
-#R  #B
-#A  #I
-#L
-
-```
-
-Pomocne strony: 
-- [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-- [documentation](https://docs.github.com/categories/github-pages-basics/)
-- [contact support](https://support.github.com/contact)
+### Osoby zaangażowane w projekt
+- [Krzysztof Czechowicz](https://klonotoros.github.io)
+- [Dawid Kmak](https://dkmak0.github.io)
+- [Dawid Król](https://dawidkrol.github.io)
+- [Jakub Błażowski](https://ne0n3k.github.io)
+- [Bartłomiej Kura](https://kurabart.github.io)
